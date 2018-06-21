@@ -1,5 +1,13 @@
 # CS with Android - Anagram
 
+
+This is the code for the Anagram workshop. 
+This workshop is part of the Applied CS with Android course:
+
+http://g.co/cswithandroid
+
+Check the website for detailed instructions on how to implement this activity.
+
 An anagram is a word formed by rearranging the letters of another word. For example, cinema is an anagram of iceman.
 
 ### The mechanics of the game are as follows:
